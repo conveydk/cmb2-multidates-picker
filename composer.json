@@ -1,0 +1,20 @@
+{
+    "name": "origgami/cmb2-multidates-picker",
+    "description": "Creates a CMB2 field that enables a multiple date calendar.",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Origgami",
+            "homepage": "http://origgami.com.br",
+        }
+    ],
+    "keywords": ["wordpress", "plugin", "metabox","search","field"],
+    "homepage": "https://github.com/conveydk/cmb2-multidates-picker",
+    "type": "wordpress-muplugin",
+    "require": {
+        "php": ">5.2.4"
+    },
+    "suggest": {
+        "composer/installers": "~1.0"
+    }
+}
